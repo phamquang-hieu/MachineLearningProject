@@ -102,10 +102,10 @@ if __name__ == "__main__":
     print(df.head(10))
     best_p1 = best_p2 = best_r2_train = best_r2_test = 0
     prev_r2_train = prev_r2_test = 0
-    for i in range(0, 200):
-        for j in range(0, 200):
-            p1 = i * 0.1
-            p2 = j * 0.1
+    for i in range(0, 5):
+        for j in range(0, 5):
+            p1 = i * 1.0
+            p2 = j * 1.0
             print("Processing hypothesis with p1 =", p1, "p2 = ", p2)
             r2_train, r2_test = kfold(p1, p2)
             prev_r2_train, prev_r2_test = r2_train, r2_test
