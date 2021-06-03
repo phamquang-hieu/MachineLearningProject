@@ -12,7 +12,9 @@ Slide: slide.pptx
 Kmeans - Ridge - KNN combination approach:
 
 +) Dataset preprocessing: KMeans-Ridge-KNN-process-data.ipynb
+
 +) Dataset after processed: processed-original.csv
+
 +) Implementation of algorithms: KMeans-Ridge-KNN.ipynb
 
 Tree Approach:
