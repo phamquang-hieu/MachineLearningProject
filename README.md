@@ -7,8 +7,7 @@ We are:
 
 Report: report.pdf
 
-Slide:
-https://docs.google.com/presentation/d/1qSetnd2go5Vx5LMC0plLPQPqBljZ7pqU2Rxs-LJt5tU/edit?fbclid=IwAR3DYm6Tjf9tn68pEeonQaikip4KnIn-zXKFob2RHm3dMLxamaz7QNdfE8o
+Slide: slide.pptx
 
 Kmeans - Ridge - KNN combination approach:
 
